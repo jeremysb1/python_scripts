@@ -27,9 +27,9 @@ def main(args):
 	for password in args:
 		count = pwned_api_check(password)
 		if count:
-			print(f'{password} was found {count} times. You should change your password.')
+			print(f'{password} was found {count} times. You should definitely keep this password if you like getting hacked.')
 		else:
-			print(f'{password} was not found. Fiesta time.')
+			print(f'{password} was not found. Tequila time!')
 		return 'done'
 
 if __name__ == '__main__':
