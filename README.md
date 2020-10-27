@@ -1,7 +1,8 @@
-# scripting_with_python
+These are my first two projects after completing MIT's 6.00.1x. 
 
-I am writing some various scripts.
+Projects include:
 
-Each project will have its own folder contained in the repository.
+- a PDF merge tool
+- a secure password checker to check if a given password has been hacked
 
-The point is to take what learned in 6.00.1x, make stuff, and build more complex stuff as I improve.
+Each project has its own folder in the repository.
